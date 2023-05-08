@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio6 {
+public class calculateCelsius {
   /**
    * 6. Elabore um programa que leia 30 valores em Fahrenheit, calcula a conversão de cada 
    * temperatura de Fahrenheit (F) para Celsius (C) e escreve o valor resultante na tela. 
